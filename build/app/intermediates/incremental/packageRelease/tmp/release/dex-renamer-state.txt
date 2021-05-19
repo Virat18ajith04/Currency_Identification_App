@@ -1,0 +1,4 @@
+#Wed May 19 13:07:06 IST 2021
+base.0=E\:\\MiniProject\\Classification-Flutter-TFlite\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,8 @@
+10 rupees
+20 rupees
+50 rupees
+100 rupees
+200 rupees
+500 rupees
+2000 rupees
+background
